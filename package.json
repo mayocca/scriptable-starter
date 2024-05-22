@@ -1,0 +1,10 @@
+{
+  "name": "scriptable-starter",
+  "type": "module",
+  "devDependencies": {
+    "@types/scriptable-ios": "^1.7.7"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

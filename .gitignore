@@ -1,0 +1,15 @@
+# IDE files
+.vscode-test
+.idea
+
+# Mac OS files
+.DS_Store
+
+# Environment files
+.env.local
+
+# Dependencies
+node_modules
+
+# Build files
+dist
